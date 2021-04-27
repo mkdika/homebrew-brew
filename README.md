@@ -8,8 +8,13 @@
 # add mkdika tap
 brew tap mkdika/brew
 
-# install the formula, eg. lff
+# install the formula:
+
+# Large file finder
 brew install lff
+
+# Chromedriver v79
+brew install chromedriver79
 ```
 
 ## Documentation
